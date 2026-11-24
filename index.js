@@ -1,5 +1,5 @@
 function test() {
-    return 123
+    return "test"
 }
 
 export default test
